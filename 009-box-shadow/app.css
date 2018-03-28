@@ -15,8 +15,14 @@ img {
   height: 180px;
   margin-left: 15px;
   margin-bottom: 20px;
-  border: 1px solid black; /* delete me! */
 }
 
 
 /* Your Code Goes Under This Line */
+.subtle{
+  box-shadow: 1px 1px 8px 1px rgba(0,0,255, .1);
+}
+
+.technicolor{
+  box-shadow:20px 5px 15px red, -40px -30px 20px blue, -5px 20px 10px lime;
+}
