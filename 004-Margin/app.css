@@ -9,6 +9,10 @@ img {
 
 .center {
   width: 50%;
+  margin: auto;
 }
 
 /* Code Under This Line */
+.foo{
+  margin: 10px;
+}
