@@ -4,7 +4,7 @@
 
 1. Selector chaining
 1. Selector grouping
-1. Floats & Clearfixes
+1. Floats & Clear fixes
 1. The CSS box model
 
 ### Objective

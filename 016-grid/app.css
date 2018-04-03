@@ -19,7 +19,7 @@ div {
 }
 
 h2 {
-  font-size: 40px;
+  font-size: 20px;
   text-align: center;
 }
 
@@ -32,3 +32,46 @@ h3 {
 }
 
 /* Code Under This Line */
+
+
+.two{
+  width: calc(100%/2);
+}
+
+.three{
+  width: calc(100%/3);
+}
+
+.four{
+  width: calc(100%/4);
+}
+
+.five{
+  width: calc(100%/5);
+}
+
+.six{
+  width: calc(100%/6);
+}
+
+.seven{
+  width: calc(100%/7);
+}
+
+.eight{
+  width: calc(100%/8);
+}
+
+.nine{
+  width: calc(100%/9);
+}
+
+.ten{
+  width: calc(100%/10);
+}
+.eleven{
+  width: calc(100%/11);
+}
+.twelve{
+  width: calc(100%/12);
+}
