@@ -33,45 +33,57 @@ h3 {
 
 /* Code Under This Line */
 
+/*.columns {
+  clear: both;
+  overflow: hidden;
+}*/
 
-.two{
+.column {
+  float: left;
+}
+
+.one .column{
+  width: 100%;
+}
+
+.two .column{
   width: calc(100%/2);
 }
 
-.three{
+.three .column{
   width: calc(100%/3);
 }
 
-.four{
+.four .column{
   width: calc(100%/4);
 }
 
-.five{
+.five .column{
   width: calc(100%/5);
 }
 
-.six{
+.six .column{
   width: calc(100%/6);
 }
 
-.seven{
+.seven .column{
   width: calc(100%/7);
 }
 
-.eight{
+.eight .column{
   width: calc(100%/8);
 }
 
-.nine{
+.nine .column{
   width: calc(100%/9);
 }
 
-.ten{
+.ten .column{
   width: calc(100%/10);
 }
-.eleven{
+.eleven .column{
   width: calc(100%/11);
 }
-.twelve{
+.twelve .column{
   width: calc(100%/12);
 }
